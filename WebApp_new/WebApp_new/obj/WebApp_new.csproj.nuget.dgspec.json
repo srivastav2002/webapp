@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\visual studio c#\\WebApp_new\\WebApp_new\\WebApp_new.csproj": {}
+    "D:\\GIT\\Anuj\\WebApp_new\\WebApp_new\\WebApp_new.csproj": {}
   },
   "projects": {
-    "D:\\visual studio c#\\WebApp_new\\WebApp_new\\WebApp_new.csproj": {
+    "D:\\GIT\\Anuj\\WebApp_new\\WebApp_new\\WebApp_new.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visual studio c#\\WebApp_new\\WebApp_new\\WebApp_new.csproj",
+        "projectUniqueName": "D:\\GIT\\Anuj\\WebApp_new\\WebApp_new\\WebApp_new.csproj",
         "projectName": "WebApp_new",
-        "projectPath": "D:\\visual studio c#\\WebApp_new\\WebApp_new\\WebApp_new.csproj",
+        "projectPath": "D:\\GIT\\Anuj\\WebApp_new\\WebApp_new\\WebApp_new.csproj",
         "packagesPath": "C:\\Users\\anjal\\.nuget\\packages\\",
-        "outputPath": "D:\\visual studio c#\\WebApp_new\\WebApp_new\\obj\\",
+        "outputPath": "D:\\GIT\\Anuj\\WebApp_new\\WebApp_new\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjal\\AppData\\Roaming\\NuGet\\NuGet.Config",
